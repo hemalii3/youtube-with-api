@@ -20,25 +20,3 @@ React.js
 React Router
 
 CSS/Styled Components
-
-YouTube Data API (or mock data)
-
-Getting Started
-Clone the repository:
-git clone https://github.com/yourusername/youtube-clone-react.git
-
-Install dependencies:
-npm install
-
-Start the development server:
-npm start
-
-Open your browser and visit http://localhost:3000
-
-Future Improvements
-Add user authentication
-
-Implement likes, comments, and subscriptions
-
-Optimize performance and loading times
-
